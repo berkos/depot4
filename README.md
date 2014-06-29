@@ -3,8 +3,6 @@ depot4
 
 Online E-store Bookself
 
-
-
 Ruby 2.0.0, Rails 4,Git,Heroku,HTML,CSS,AJAX,Coffescript,Javascript, PostgreSQL
 
 
